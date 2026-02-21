@@ -1,4 +1,4 @@
-# DayToDay
+# CalendarTrack
 Calendar App
 
 ## Tech Stack
